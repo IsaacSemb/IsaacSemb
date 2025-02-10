@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaacSemb
 - 👀 I’m interested in coding, anime, gaming (fighting games and strategy games)
 - 🌱 I’m currently persuing a master's degree in computer science at Birmingham City University, UK
-- 💞️ I’m looking to collaborate on python based projects and web app development projects
+- 💞️ I’m looking to collaborate on python based projects and web app development projects with react and Next JS
 - 📫 You can reach me at isaacsemb1996@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
