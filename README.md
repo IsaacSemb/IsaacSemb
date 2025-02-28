@@ -1,11 +1,10 @@
-Here’s your bio with fancy icons for your tech stack! 🚀  
-
 ---
 
-### 👋 Hi, I'm Isaac Semb  
+### 👋 Hi, I'm Isaac Ssembuusi
 💻 Master's Student @ Birmingham City University | Passionate about Web Development & AI  
 
-#### 🚀 About Me:  
+#### 🚀 About Me:
+- 🙋🏾‍♂️ Iam a software developer
 - 🔭 I’m currently working on **Python-based projects** & **web apps** with **React** and **Next.js**  
 - 🎮 I enjoy **coding, anime, and gaming** (fighting games & strategy)  
 - 💡 Looking for **collaboration opportunities** in **AI, full-stack development, and open-source**  
