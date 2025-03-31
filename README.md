@@ -1,6 +1,6 @@
 ---
 
-### 👋 Hi, I'm Isaac Ssembuusi
+### 👋 Hi, I'm Isaac Ssembuusi 
 💻 Master's Student @ Birmingham City University | Passionate about Web Development & AI  
 
 #### 🚀 About Me:
