@@ -7,7 +7,7 @@
 - 🙋🏾‍♂️ Iam a software developer
 - 🔭 I’m currently working on **Python-based projects** & **web apps** with **React** and **Next.js**  
 - 🎮 I enjoy **coding, anime, and gaming** (fighting games & strategy)  
-- 💡 Looking for **collaboration opportunities** in **AI, full-stack development, and open-source**  
+- 💡 Looking for **collaboration opportunities** in **AI, full-stack development, and open source**  
 
 ---
 
