@@ -28,7 +28,6 @@
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/>
     <img background="white" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Vue.js" title="Vue.js"/>
 </div>
-<img width="50" src="https://icons-for-free.com/iconfiles/png/512/flask-131994911518798257.png" alt="Flask" title="Flask"/>
 
 </div>
 
