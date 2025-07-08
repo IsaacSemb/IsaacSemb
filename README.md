@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Isaac 
 💻 MSc Computer Science  
 
-#### 🚀 About Me:
+#### 🚀 About Me: 
 - 🙋🏾‍♂️ Aspiring software developer
 - 💡 Open to **collaboration opportunities** on **Python and JS based projects**  
 
