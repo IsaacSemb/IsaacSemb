@@ -4,7 +4,7 @@
 💻 MSc Computer Science  
 
 #### 🚀 About Me: 
-- 🙋🏾‍♂️ Software developer
+- 🙋🏾‍♂️ Software developer 
 - 💡 Open to **collaboration opportunities** on **Python and JS based projects**  
 
 ---
