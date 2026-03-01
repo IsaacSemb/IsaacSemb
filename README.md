@@ -1,6 +1,6 @@
 ---
  
-### 👋 Hi, I'm Isaac 
+### 👋 Hi, I'm Isaac Ssembuusi
 💻 MSc Computer Science  
 
 #### 🚀 About Me: 
