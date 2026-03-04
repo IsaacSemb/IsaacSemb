@@ -5,7 +5,7 @@
 
 #### 🚀 About Me: 
 - 🙋🏾‍♂️ Software developer 
-- 💡 Open to **collaboration opportunities** on **Python and JS based projects**  
+- 💡 Open to **collaboration opportunities** on **Python and TS based projects**  
 
 ---
 
